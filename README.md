@@ -4,14 +4,12 @@ This repository contains the code for my master's thesis, which focuses on solvi
 
 ## 📁 Repository Structure
 
-master_final/
-├── data/         # FEM simulation data (from FEniCSx)
-├── utils/        # PINNs and FEM solver classes for the coupled ODE-PDE system
-├── simulations/  # All simulation scripts
-├── results/      # Output data and visualizations
-├── requirements.txt
-└── README.md
-
+- `data/` – FEM simulation data (from FEniCSx)  
+- `utils/` – PINNs and FEM solver classes for the coupled ODE-PDE system  
+- `simulations/` – All simulation scripts  
+- `results/` – Output data and visualizations  
+- `requirements.txt` – Python dependencies  
+- `README.md` – This file  
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -63,4 +61,9 @@ The `data/` folder contains:
 ## 💬 Contact
 
 For questions, suggestions, or collaborations, feel free to reach out via GitHub or contact me directly.
+
+### 📽️ Example Output
+
+![Simulation GIF](corner.gif)
+
 
