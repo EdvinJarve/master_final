@@ -1,0 +1,18 @@
+# Core numerical and scientific libraries
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.4
+scikit-learn>=0.24
+
+# FEniCSx and related libraries
+dolfinx>=0.6.0
+ufl>=2023.1.0
+petsc4py>=3.18
+mpi4py>=3.1
+
+# PyTorch
+torch>=1.9
+
+# Optional / general-purpose
+tqdm>=4.62
+
