@@ -1,0 +1,14 @@
+{
+  "num_inputs": 4,
+  "num_layers": 4,
+  "num_neurons": 512,
+  "use_ode": true,
+  "n_state_vars": 1,
+  "loss_function": "L2",
+  "weight_strategy": "dynamic",
+  "alpha": 0.9,
+  "M": 0.1,
+  "training_time": 4821.692756175995,
+  "global_rmse": 0.05253183705630971,
+  "global_rel_rmse": 0.21632640193513689
+}

@@ -1,0 +1,12 @@
+{
+    "layers": 3,
+    "neurons": 512,
+    "N_data": 50,
+    "noise_level": 0,
+    "mse_T": 4.60048436091709e-07,
+    "rel_mse_T": 5.303269530431311e-06,
+    "global_rmse": 0.002325175257098339,
+    "global_rel_rmse": 0.010373598518634472,
+    "predicted_M": 0.9782366752624512,
+    "training_time_s": 1550.9357068538666
+}

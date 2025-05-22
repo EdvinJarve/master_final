@@ -1,0 +1,14 @@
+{
+    "num_inputs": 3,
+    "num_layers": 4,
+    "num_neurons": 256,
+    "use_ode": false,
+    "n_state_vars": 0,
+    "loss_function": "L2",
+    "weight_strategy": "manual",
+    "alpha": 1.0,
+    "training_time": 973.4652984142303,
+    "validation_time": 0.008182764053344727,
+    "global_rmse": 0.002672178342562844,
+    "global_relative_rmse": 0.01418771824347359
+}

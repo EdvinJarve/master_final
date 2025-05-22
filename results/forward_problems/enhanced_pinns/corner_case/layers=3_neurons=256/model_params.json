@@ -1,0 +1,7 @@
+{
+    "layers": 3,
+    "neurons": 256,
+    "training_time": 3162.6179032325745,
+    "global_rmse": 0.013549352689336687,
+    "global_relative_rmse": 0.07193920977347308
+}
